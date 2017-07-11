@@ -1,0 +1,6 @@
+artifacts
+*.userprefs
+obj/
+packages/
+.vs/
+*.user
